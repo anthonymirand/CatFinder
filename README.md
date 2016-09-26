@@ -1,5 +1,4 @@
 # Cat Finder
----
 ### Everything is this world is either a cat or not a cat!
 
 ![alt text](https://github.com/anthonymirand/CatFinder/blob/master/detected/cat_04_detected.png)
